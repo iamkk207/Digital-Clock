@@ -1,6 +1,6 @@
 
 function currentTime2(){
-    let time = new Date().toLocaleTimeString();
+    let time = new Date().toLocaleTimeString('en-US');
     document.getElementById("digitalclock").innerHTML=time;
 }
 
