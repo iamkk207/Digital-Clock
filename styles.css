@@ -25,11 +25,11 @@ h1{
 }
 */
 .digitalclock{
-    width: 25vw;
+    width: 35vw;
     height: 5vw;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    font-size: 3vw;
+    font-size: 5vw;
     color:#0F3460;
     background-color:beige;
     padding: 3vw 9vw 3vw 9vw;
